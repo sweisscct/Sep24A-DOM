@@ -53,4 +53,8 @@ for (let i=0; i<listItems.length; i++) {
     })
 }
 
-
+// for (let i=0; i<listItems.length; i++) {
+//     listItems[i].addEventListener("click", () => {
+//         listItems[i].remove();
+//     })
+// }
